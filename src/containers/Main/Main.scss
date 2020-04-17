@@ -16,16 +16,18 @@
     .body-container {
         height: 100%;
         padding-bottom: 50px;
+        overflow: hidden;
 
         .title {
             color: white;
             font-size: 180px;
             margin-bottom: 20px;
+            
         }
 
         .text {
             color: white;
-            font-size: 15px;
+            font-size: 15px;            
         }
                 
         .logo-img {
